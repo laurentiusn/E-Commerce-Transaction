@@ -8,7 +8,7 @@ This project analyzes e-commerce transactions to track total sales, regional sal
 
 ## Dashboard Overview
 
-![Main Dashboard](src/Screenshot%202026-11-26%20155425.png)
+![Main Dashboard](src/DashboardOverview.png)
 
 ## Dataset & Data Preparation
 Dataset used in this project is from Kaggle named "eCommerce Transactions" by Chad Wambles. This project only use `Customers.csv`, `Products.csv`, and `Transactions.csv`
